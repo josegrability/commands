@@ -1,0 +1,2 @@
+scp  joseramirez@192.168.1.51:/Users/joseramirez/Repos/Command/db2Actions.sh .
+db2inst1

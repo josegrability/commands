@@ -1,0 +1,6 @@
+1 -> Primero ejecutas Bash 
+2 -> Segundo de entrar docker2 ./dockeraction.sh
+3 -> ingresar la clave  db2inst1
+4-> scp  joseramirez@192.168.1.51:/Users/joseramirez/Repos/Command/db2Actions.sh .
+5 -> ./db2Actions.sh
+6 -> scp A2CENSO.0.db2inst1.DBPART000.20210409185734.001 joseramirez@192.168.1.51:.
